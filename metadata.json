@@ -1,0 +1,8 @@
+{
+  "name": "BloxVerse 3D - Roblox Sandbox & Games",
+  "description": "An interactive 3D Roblox-style sandbox and gaming universe featuring classic R6 avatar physics, Obby obstacle courses, Crossroads BrickBattle, Tycoon builder, Studio free-build, avatar customization, and authentic sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
